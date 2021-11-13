@@ -8,4 +8,6 @@
 
 І це моя восьма лабораторна робота, з дисципліни вступ до фаху.
 
-![image](https://user-images.githubusercontent.com/94218162/141614609-a3d8fcc1-820c-4a88-82ba-d76d642be81a.png)    https://github.com/StudentKNTU/new_repository ![image](https://user-images.githubusercontent.com/94218162/141614634-e4357213-6bc7-46e4-a628-27c446a84572.png)     studenthntu99@gmail.com
+![image](https://user-images.githubusercontent.com/94218162/141614609-a3d8fcc1-820c-4a88-82ba-d76d642be81a.png)    https://github.com/StudentKNTU/new_repository 
+
+![image](https://user-images.githubusercontent.com/94218162/141614634-e4357213-6bc7-46e4-a628-27c446a84572.png)     studenthntu99@gmail.com
